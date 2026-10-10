@@ -1,0 +1,10 @@
+# Compilacion. Se reconstruye con build.bat; no es fuente.
+build/
+*.obj
+*.exe
+*.pdb
+*.ilk
+
+# Salida de las herramientas, no fuente.
+*.err
+*.log
